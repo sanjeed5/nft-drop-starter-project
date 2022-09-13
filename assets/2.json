@@ -1,0 +1,19 @@
+{
+    "name": "Chopper",
+    "symbol": "Chopper",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GVkbZU1VNyjSXRHL9rtw1vHT17Esnrq6cswDFzL9KH2H",
+          "share": 100
+        }
+      ]
+    }
+  }
