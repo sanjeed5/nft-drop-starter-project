@@ -15,6 +15,7 @@ Have some questions make sure you head over to your [buildspace Dashboard](https
 
 ---
 
+# My Notes
 ### Outputs
 
 initialized config for a candy machine with publickey: DKXVZJkn5Ak4bLR7PuhWjiDqSXTP753jdFtpJaZ5kGL3
