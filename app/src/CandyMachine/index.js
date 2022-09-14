@@ -75,7 +75,9 @@ const CandyMachine = ({ walletAddress }) => {
     // We will be using this later in our UI so let's generate this now
     const goLiveDateTimeString = `${new Date(
       goLiveData * 1000
-    ).toGMTString()}`
+    ).toLocaleDateString()} @ ${new Date(
+      goLiveData * 1000
+    ).toLocaleTimeString()}`;
 
     console.log({
       itemsAvailable,
